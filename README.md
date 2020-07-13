@@ -30,7 +30,7 @@ session3: an introduction to neural networks
 
 session4: get a little deep into basics of backpropagation
 
-session5: dependency parsing (I do not suggesting this unless parsing is the task you are working on.)
+session5: dependency parsing (I do not suggest this unless parsing is the task you are working on.)
 
 session6,7,8: are about RNNs. It disscusses different types of it, and following a main stream it sheds light on the methods solved its challenges. It is proposed in a well-defined structure with appropriate amount of mathematical fundamentals. These are all too delicious to follow :)
 
