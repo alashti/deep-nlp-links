@@ -39,3 +39,6 @@ session6,7,8: are about RNNs. It disscusses different types of it, and following
 week 10: a set of introductions to large scale machine learning that includes a method to apply ml algorithms in a map-reduce based framework. 
 
 week 11: an introduction to ocr and image processing. It really helped me to get much more interested in ML than before. Actually, from then I'm much more ml fan than just text-mining, my first love in computer science. 
+
+* Deep Sentiment Analysis: 
+https://towardsdatascience.com/fine-grained-sentiment-analysis-in-python-part-1-2697bb111ed4
